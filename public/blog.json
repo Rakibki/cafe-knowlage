@@ -1,0 +1,69 @@
+[
+  {
+      "id": 1,
+      "title": "Exploring the Great Barrier Reef",
+      "author": "John Smith",
+      "blogImg": "https://i.ibb.co/0VMbmFW/young-blogger-photographing-pastry-through-smartphone-shopping-mall.jpg",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "post-date": "2023-08-15",
+      "reading-time": "10 minutes",
+      "cover": "great-barrier-reef.jpg",
+      "hashtags": ["nature", "ocean", "adventure"]
+    },
+    {
+      "id": 2,
+      "title": "The Art of Astrophotography",
+      "author": "Emily Johnson",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "blogImg": "https://i.ibb.co/j8k3ZDW/smiling-tourist-hipster-girl-white-shirt-working-laptop-while-sitting-wooden-bench-beautiful-autumn.jpg",
+      "post-date": "2023-09-02",
+      "reading-time": "8 minutes",
+      "cover": "astrophotography.jpg",
+      "hashtags": ["photography", "space", "night"]
+    },
+    {
+      "id": 3,
+      "title": "Culinary Adventures in Italy",
+      "author": "Maria Rodriguez",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "post-date": "2023-07-20",
+      "blogImg": "https://i.ibb.co/jTZVB96/young-woman-with-cup-coffee-smartphone-background-wall.jpg",
+      "reading-time": "12 minutes",
+      "cover": "italian-cuisine.jpg",
+      "hashtags": ["food", "travel", "italy"]
+    },
+    {
+      "id": 4,
+      "title": "Hiking the Inca Trail to Machu Picchu",
+      "author": "David Turner",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "post-date": "2023-06-10",
+      "blogImg": "https://i.ibb.co/0VMbmFW/young-blogger-photographing-pastry-through-smartphone-shopping-mall.jpg",
+      "reading-time": "15 minutes",
+      "cover": "machu-picchu.jpg",
+      "hashtags": ["travel", "adventure", "history"]
+    },
+    {
+      "id": 5,
+      "title": "Wildlife Photography in Africa",
+      "author": "Sarah Walker",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "post-date": "2023-09-18",
+      "blogImg": "https://i.ibb.co/0VMbmFW/young-blogger-photographing-pastry-through-smartphone-shopping-mall.jpg",
+      "reading-time": "9 minutes",
+      "cover": "african-wildlife.jpg",
+      "hashtags": ["photography", "wildlife", "Africa"]
+    },
+    {
+      "id": 6,
+      "title": "Exploring the Amazon Rainforest",
+      "author": "Carlos Fernandez",
+      "author-img": "https://i.ibb.co/R0px86h/auth.jpg",
+      "post-date": "2023-08-05",
+      "blogImg": "https://i.ibb.co/0VMbmFW/young-blogger-photographing-pastry-through-smartphone-shopping-mall.jpg",
+      "reading-time": "14 minutes",
+      "cover": "amazon-rainforest.jpg",
+      "hashtags": ["nature", "adventure", "rainforest"]
+    }
+]
+  
