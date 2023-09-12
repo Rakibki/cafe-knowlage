@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import Blog from '../blog/Blog'
 
-const Books = () => {
+const Books = ({getBlog, getReadTime}) => {
     const [blog, setBlog] = useState([])
 
     useEffect(() => {
@@ -13,14 +13,15 @@ const Books = () => {
         console.log(e);
       }
     }, [])
-    console.log(blog);
 
   return (
-    <div className='md:w-2/3'>
-        <h1>blogs: {blog.length}</h1>
+    <div className='order-1 p-4 w-full md:w-2/3 lg: w-2/3'>
+      <h1 className='text-xl my-2'>Blog-{blog.length}</h1>
+      <div className='w-full'>
         {
-          blog.map((item) => <Blog key={item.id} blog={item} /> )
+          blog.map((item) => <Blog getReadTime={getReadTime} key={item.id} getBlog={getBlog} blog={item} /> )
         }
+    </div>
     </div>
   )
 }
